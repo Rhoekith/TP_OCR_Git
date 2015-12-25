@@ -1,0 +1,5 @@
+fonctionnement de git :
+1) on créer le fichier (touch mon_fichier)
+2) on enregistre au git (git add)
+3) on commit (git commit)
+4) on envois (git push)
